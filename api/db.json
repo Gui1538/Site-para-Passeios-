@@ -1,0 +1,40 @@
+{
+  "categorias": [
+    {
+      "id": "ff88",
+      "nome": "Praias",
+      "descricao": "Lugares para relaxar com a família\n"
+    },
+    {
+      "id": "bec6",
+      "nome": "Parques",
+      "descricao": "Lugares para lazer com a família"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "aa0f",
+      "nome": "Barra da Tijuca",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "https://media.istockphoto.com/id/518224686/photo/aerial-view-of-the-barra-beach-in-rio-de-janeiro.jpg?s=612x612&w=0&k=20&c=1O9E9X8dD_sSEx2JHtMi19yRkueHOKWnqgueC7bVoqo=",
+      "avaliacao": "1"
+    },
+    {
+      "id": "eb2c",
+      "nome": "Praia da Macumba",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "https://irp.cdn-website.com/1911d595/dms3rep/multi/Praia+da+Macumba+o+ref%C3%BAgio+carioca+de+beleza+e+aventura.jpg",
+      "avaliacao": "5"
+    },
+    {
+      "id": "a396",
+      "nome": "Parque da Cidade",
+      "categoria": "Parques",
+      "localizacao": "Distrito Federal",
+      "urlFoto": "https://visitebrasilia.com.br/images/2022/05/20220503155157_l_Parquedacidade.jpg",
+      "avaliacao": "5"
+    }
+  ]
+}

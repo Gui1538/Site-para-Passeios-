@@ -1,0 +1,24 @@
+{
+  "categorias": [
+    {
+      "id": "ff88",
+      "nome": "Praias",
+      "descricao": "Lugares para relaxar com a família\n"
+    },
+    {
+      "id": "bec6",
+      "nome": "Parques",
+      "descricao": "Lugares para lazer com a família"
+    }
+  ],
+  "lugares": [
+    {
+      "id": "aa0f",
+      "nome": "Praia de Copa Cabana",
+      "categoria": "Praias",
+      "localizacao": "Rio de Janeiro",
+      "urlFoto": "https://media.istockphoto.com/id/518224686/photo/aerial-view-of-the-barra-beach-in-rio-de-janeiro.jpg?s=612x612&w=0&k=20&c=1O9E9X8dD_sSEx2JHtMi19yRkueHOKWnqgueC7bVoqo=",
+      "avaliacao": "1"
+    }
+  ]
+}
