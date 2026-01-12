@@ -1,5 +1,10 @@
 # PasseioApp
 
+Este site tem como finalidade armazenar imagens e informações sobre diferentes lugares.
+Ele permite a criação de categorias para organizar esses lugares, possibilitando cadastrar novos locais tanto em categorias recém-criadas quanto em categorias já existentes.
+
+Além disso, é possível avaliar cada lugar com uma pontuação de 0 a 5 estrelas e adicionar uma descrição destacando pontos de interesse relevantes para os usuários.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
 
 ## Development server
